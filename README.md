@@ -17,7 +17,7 @@ Since native monitor mode might have issues in earlier mainline kernels, you may
 
 Please refer to the 'patches' folder
 
-## 3. Set-up step 
+## 3. Set-up
 Below is an example using the WLE7002E25 module.
 Note: First, run iw dev to identify your correct phy index (e.g., phy0) and network interface name (e.g., wlan0).
 ```bash
